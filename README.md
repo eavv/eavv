@@ -26,6 +26,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+###
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
