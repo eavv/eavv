@@ -24,11 +24,7 @@
 <br/>
 
 ### ✍️ Random Dev Quote
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-</div>
-
-###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <picture>
   <source
