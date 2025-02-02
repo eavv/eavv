@@ -67,6 +67,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -76,13 +78,3 @@
   <img src="https://streak-stats.demolab.com?user=eavv&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=eavv&theme=monokai&column=-1&row=1&margin-w=4&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12126959430">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12126959430&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
